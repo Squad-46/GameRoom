@@ -6,7 +6,7 @@ const links = {
     game5: "https://vedhamadival.github.io/Spooked-Mind/",
     game6: "https://kavin0m.github.io/KeyboardSmasher/",
     game7: "https://alexcfrost.github.io/Enigma-Labyrinth/",
-    game8: "https://github.com/AaryanPanda/Asteroids-Assault",
+    game8: "https://aaryanpanda.github.io/Asteroids-Assault/",
     game9: "https://mugunthan-701.github.io/assesmentorca/start",
     game10: "https://velavan-sr.github.io/CA-2/",
     game11: "https://melvin0070.github.io/Space-Explorer/",
