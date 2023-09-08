@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+body{
+    background-color: #13005a;
+}
+
+#headbar{
+    font-weight: 900;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 50px;
+    color: white;
+    background-color: #0bcb8c;
+}
+
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 20px;
+    color: black;
+}
+
+.contbox{
+    background-color: #0D6E6E;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.contbox:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 0 10px 5px black;
+}
+
+.gamename{
+    font-size: 20px;
+    margin: 15px;
+    font-weight: 900;
+    text-align: center;
+}
+
+#img1{
+    background-image: url("assets/logo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#img3{
+    background-image: url("assets/22635910_6641733.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#img2{
+    background-image: url("assets/winner.jpg");
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#img4{
+    background-image: url("assets/block_puzzle.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#img5{
+    background-image: url("assets/111111.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+#img6{
+    background-image: url("assets/bongo-cat-keyboard-smash.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#img7{
+    background-image: url("assets/Enigma-Lybrinth.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 80%;
+    color: white;
+}
+
+#img8{
+    background-image: url("assets/istockphoto-1312253146-612x612.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 40%;
+    color: white;
+}
+
+#img9{
+    background-image: url("assets/ball-hitting-wicket-stumps_1302-15526.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#img10{
+    background-image: url(assets/anime-naruto.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    color: white;
+}
+
+#img11{
+    background-image: url(assets/Screenshot\ from\ 2023-09-08\ 16-06-34.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    color: white;
+}
+
+#img12{
+    background-image: url("assets/Snegan\ game-12.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+#img13{
+    background-image: url("assets/360_F_581072320_jQxUXlXMKkM307fLE0OMx86eGdsIO9ZE.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    color: white;
+}
