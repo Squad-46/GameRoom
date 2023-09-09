@@ -1,5 +1,5 @@
 const links = {
-    game1: "https://narayanasabari.github.io/Kalvium-Labs/CA%20%7C%20Slide%20X%20%28Game%20Development%29/player_info.html",
+    game1: "https://narayanasabari.github.io/Kalvium-Labs/CA%20%7C%20Slide%20X%20%28Game%20Development%29/index.html",
     game2: "https://anam-ashraf7.github.io/Heavenly-drops/",
     game3: "https://k-46.github.io/CA-2-Mind-Matrix/",
     game4: "https://alwinsunil.github.io/block-puzzle/",
